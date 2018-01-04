@@ -2,7 +2,7 @@
 open Rop
 
 //Debug variables, toggle to test out different outcomes
-let FAIL_GETTING_BANKACCOUNTID_FROM_RESPONSE = true
+let FAIL_GETTING_BANKACCOUNTID_FROM_RESPONSE = false
 let FAIL_GETTING_BANK_ACCOUNT_FROM_PROVIDER = false
 
 
